@@ -1,4 +1,4 @@
-# Student CRUD App
+# Sistema de Alunos 
 
 ## Descrição do Projeto
 
@@ -21,8 +21,8 @@ Este projeto é um aplicativo web para gerenciamento de cadastro de estudantes, 
 1. Clone o repositório:
 
     ```zsh
-    git clone https://github.com/juulioclf/sistema_alunos_fpf.git
-    cd sistema_alunos_fpf
+    git clone https://github.com/juulioclf/sistema_alunos.git
+    cd sistema_alunos
     ```
 
 2. Inicie os contêineres:
