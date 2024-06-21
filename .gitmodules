@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/juulioclf/sistema_alunos_backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/juulioclf/sistema_alunos_frontend
