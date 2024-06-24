@@ -35,6 +35,7 @@ Este projeto é um aplicativo web para gerenciamento de cadastro de estudantes, 
 
     - Frontend: [http://localhost:3000](http://localhost:3000)
     - Backend: [http://localhost:3001](http://localhost:3001)
+    - Swagger: [http://localhost:3001](http://localhost:3001/swagger)
 
 ## Tecnologias Utilizadas
 
