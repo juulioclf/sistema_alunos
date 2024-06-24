@@ -13,6 +13,9 @@ services:
       - "3001:3000"
     depends_on:
       - db
+    environment:
+      DATABASE_URL: "postgresql://postgres:postgres@db:5432/students"
+      JWT_SECRET: "FPF_4LUN0S_SYST3M"
   frontend:
     build: ./frontend
     ports:
